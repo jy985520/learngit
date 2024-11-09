@@ -7,4 +7,4 @@ Creating a new branch is quick and simple.
 <<<<<<< HEAD
 cc
 rebase
-
+test color
