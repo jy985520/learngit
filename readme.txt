@@ -9,3 +9,4 @@ cc
 rebase
 test color
 test sourcetree
+sourcetree pull
